@@ -1,5 +1,5 @@
 # damage-calc
-![](https://github.com/tsubo3306/damage-calc-4005-v2-yarn-jest/workflow/Damage%20Calculation%20Test/badge.svg)
+[![CircleCI](https://circleci.com/gh/tsubo3306/damage-calc-4005-v2-yarn-jest.svg?style=svg)](https://cicleci.com/gh/tsubo3306/damage-calc-4005-v2-yarn-jest)
 
 このモジュールでは、ダメージ計算を行うことができます。  
 ダメージ計算には
